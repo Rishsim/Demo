@@ -1,0 +1,7 @@
+C:\Users\ramya\Desktop\S and Dproject\S and D\Lt\bin\Debug\Lt.exe
+C:\Users\ramya\Desktop\S and Dproject\S and D\Lt\bin\Debug\Lt.pdb
+C:\Users\ramya\Desktop\S and Dproject\S and D\Lt\obj\Debug\Lt.csproj.AssemblyReference.cache
+C:\Users\ramya\Desktop\S and Dproject\S and D\Lt\obj\Debug\Lt.csproj.SuggestedBindingRedirects.cache
+C:\Users\ramya\Desktop\S and Dproject\S and D\Lt\obj\Debug\Lt.csproj.CoreCompileInputs.cache
+C:\Users\ramya\Desktop\S and Dproject\S and D\Lt\obj\Debug\Lt.exe
+C:\Users\ramya\Desktop\S and Dproject\S and D\Lt\obj\Debug\Lt.pdb
